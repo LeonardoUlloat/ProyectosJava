@@ -7,7 +7,7 @@ import cl.duoc.poo.modelo.Refrigerado;
 
 /**
  *
- * @author sebas
+ * @author Leoanrdo Ulloa
  */
 public class Cobro implements Icalculable {
 

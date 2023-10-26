@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * @author sebas
+ * @author Leoanrdo Ulloa
  */
 public class Almacenaje {
 

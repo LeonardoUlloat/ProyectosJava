@@ -4,7 +4,7 @@ import cl.duoc.poo.controlador.Cobro;
 
 /**
  *
- * @author sebas
+ * @author Leoanrdo Ulloa
  */
 public class Mercaderia extends Contenedor {
 

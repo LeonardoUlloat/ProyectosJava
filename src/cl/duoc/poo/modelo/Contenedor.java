@@ -5,7 +5,7 @@ package cl.duoc.poo.modelo;
 
 /**
  *
- * @author sebas
+ * @author Leoanrdo Ulloa
  */
 public abstract class Contenedor  {
     

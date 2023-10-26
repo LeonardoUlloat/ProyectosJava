@@ -3,7 +3,7 @@ package cl.duoc.poo.interfaz;
 
 /**
  *
- * @author sebas
+ * @author Leoanrdo Ulloa
  */
 public interface Icalculable {
     

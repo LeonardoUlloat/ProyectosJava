@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author sebas
+ * @author Leoanrdo Ulloa
  */
 public class RegistroCobro {
 
